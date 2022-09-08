@@ -9,3 +9,4 @@ Shell, init files, variables and expansions
 6-create_local_variable - Create a script that creates a new local variable
 7-create_global_variable - Create a script that creates a new global variable.
 9-divide_and_rule - Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+10-love_exponent_breath - Write a script that displays the result of BREATH to the power LOVE
